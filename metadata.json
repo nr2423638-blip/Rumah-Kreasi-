@@ -1,0 +1,6 @@
+{
+  "name": "Rumah Kreasi",
+  "description": "Toko Online Kreatif & Edukatif Rumah Kreasi - Katalog produk, pemesanan langsung, QRIS & Bank instant verification, integrasi WhatsApp otomatis, Shopee, Lynk.id, live chat, serta portal admin & pelanggan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
