@@ -1,0 +1,6 @@
+{
+  "name": "Rumah Kreasi",
+  "description": "Platform e-commerce dan katalog produk kreatif kerajinan tangan Rumah Kreasi khusus Kota Batam dengan integrasi pembayaran QRIS, transfer bank, Shopee, Lynk.id, dan WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
